@@ -1,4 +1,4 @@
-# gh-actions-beta-notes
+# gh-actions-notes
 
 My notes and links created during the github actions beta
 
@@ -18,6 +18,7 @@ See https://developer.github.com/actions/managing-workflows/storing-secrets/
 
 ## Action Links and Examples
 - [Awesome Actions](https://github.com/sdras/awesome-actions)  <-- great collection
+- [GitHub Actions for PHP Developers](https://stefanzweifel.io/posts/github-actions-for-php-developers/)
 
 ## Take-Aways
 - GitHub actions could potentially replace most, if not all of my current github app use cases. I wonder what this means for the future of github apps?
